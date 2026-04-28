@@ -333,7 +333,9 @@ int main()
         }
         else if (choice == 7)
         {
-            cout << "Exiting program! Thanks for using system." << endl;
+            cout << "\n--------------------------------------------------" << endl;
+            cout << "   Exiting program! Thanks for using system." << endl;
+            cout << "--------------------------------------------------" << endl;
         }
         else
         {
